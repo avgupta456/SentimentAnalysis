@@ -1,0 +1,7 @@
+Followed tutorial here (mediocre results): https://towardsdatascience.com/creating-the-twitter-sentiment-analysis-program-in-python-with-naive-bayes-classification-672e5589a7ed
+
+List of tweet datasets: https://lionbridge.ai/datasets/top-20-twitter-datasets-for-natural-language-processing-and-machine-learning/
+
+Additional tutorials: https://github.com/ugis22/analysing_twitter (check part 2)
+
+Another resource to check out: https://stanfordnlp.github.io/CoreNLP/#human-languages-supported
